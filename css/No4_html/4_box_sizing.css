@@ -1,0 +1,16 @@
+.border-box-example {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    background-color: lightgreen;
+}
+
+.content-box-example {
+    box-sizing: content-box;
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
